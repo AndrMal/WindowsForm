@@ -1,0 +1,11 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\bin\Debug\wfZadanie1.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\bin\Debug\wfZadanie1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\bin\Debug\wfZadanie1.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\wfZadanie1\wfZadanie1\obj\Debug\wfZadanie1.fZad2.resources
